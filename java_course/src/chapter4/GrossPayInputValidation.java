@@ -11,7 +11,7 @@ public class GrossPayInputValidation {
         double pay;
         Scanner s = new Scanner(System.in);
 
-        System.out.println("Please entere how much hours the employee worked:");
+        System.out.println("Please enter how much hours the employee worked:");
         int hoursWorked = s.nextInt();
 
         while (hoursWorked > maxHours || hoursWorked < minHours) {
