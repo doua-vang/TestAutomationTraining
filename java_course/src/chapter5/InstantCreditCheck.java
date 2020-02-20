@@ -8,7 +8,6 @@ public class InstantCreditCheck {
     Scanner s = new Scanner(System.in);
 
     public static void creditCheck(int salary, int credit) {
-        double salary =+
 
         if (salary >= minSalary && credit >= minCredit) {
             System.out.println("Congrats! You've been instantly approved");
