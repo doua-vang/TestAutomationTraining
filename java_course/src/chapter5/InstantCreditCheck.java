@@ -7,12 +7,7 @@ public class InstantCreditCheck {
     static int minSalary = 25000;
     static double salary = 0;
     static int creditScore = 0;
-
-<<<<<<< HEAD
     static Scanner s = new Scanner(System.in);
-=======
-    public static void creditCheck(int salary, int credit) {
->>>>>>> 2a605842371ebe84d0eb4f0637843ef5cdfb52e5
 
     public static void creditCheck(int salary, int credit) {
         if (salary >= minSalary && credit >= minCredit) {
@@ -24,10 +19,7 @@ public class InstantCreditCheck {
     }
 
     public static boolean isQualified() {
-        if (salary >= minSalary && creditScore >= minCredit) {
-            return true;
-        }
-        return false;
+        return salary >= minSalary && creditScore >= minCredit;
     }
 
     public static void printApproval(boolean isQualified) {
@@ -41,13 +33,11 @@ public class InstantCreditCheck {
     }
     public static double getSalary() {
         System.out.println("Please Enter your salary:");
-        int salary = s.nextInt();
-        return salary;
+        return s.nextInt();
     }
     public static int getCreditScore() {
         System.out.println("Please enter your credit score:");
-        int creditScore = s.nextInt();
-        return creditScore;
+        return s.nextInt();
     }
 
     public static void main(String[] args) {
