@@ -8,7 +8,11 @@ public class InstantCreditCheck {
     static double salary = 0;
     static int creditScore = 0;
 
+<<<<<<< HEAD
     static Scanner s = new Scanner(System.in);
+=======
+    public static void creditCheck(int salary, int credit) {
+>>>>>>> 2a605842371ebe84d0eb4f0637843ef5cdfb52e5
 
     public static void creditCheck(int salary, int credit) {
         if (salary >= minSalary && credit >= minCredit) {
