@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edd221f0-4559-4871-8b06-bb14b655eb90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Y1pOcfnpH4TxWKvNpLHDZEZEYr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.InstantCreditCheck">
+    <configuration name="AverageTestScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.AverageTestScores" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.Greetings" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstantCreditCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.InstantCreditCheck" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBillCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.PhoneBillCalculator" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RollTheDiceGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.RollTheDiceGame" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InstantCreditCheck" />
+        <item itemvalue="Application.PhoneBillCalculator" />
+        <item itemvalue="Application.Greetings" />
+        <item itemvalue="Application.RollTheDiceGame" />
+        <item itemvalue="Application.AverageTestScores" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edd221f0-4559-4871-8b06-bb14b655eb90" name="Default Changelist" comment="" />
+      <created>1582119923839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582119923839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="991" height="281" key="GridCell.Tab.0.bottom" timestamp="1582145741193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1074" height="281" key="GridCell.Tab.0.bottom/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582132526255" />
+    <state width="991" height="281" key="GridCell.Tab.0.bottom/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582145741193" />
+    <state width="991" height="281" key="GridCell.Tab.0.center" timestamp="1582145741192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1074" height="281" key="GridCell.Tab.0.center/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582132526255" />
+    <state width="991" height="281" key="GridCell.Tab.0.center/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582145741192" />
+    <state width="991" height="281" key="GridCell.Tab.0.left" timestamp="1582145741192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1074" height="281" key="GridCell.Tab.0.left/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582132526255" />
+    <state width="991" height="281" key="GridCell.Tab.0.left/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582145741192" />
+    <state width="991" height="281" key="GridCell.Tab.0.right" timestamp="1582145741192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1074" height="281" key="GridCell.Tab.0.right/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582132526255" />
+    <state width="991" height="281" key="GridCell.Tab.0.right/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582145741192" />
+    <state width="991" height="347" key="GridCell.Tab.1.bottom" timestamp="1582144912087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1152" height="347" key="GridCell.Tab.1.bottom/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582132526251" />
+    <state width="991" height="347" key="GridCell.Tab.1.bottom/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582144912087" />
+    <state width="991" height="347" key="GridCell.Tab.1.center" timestamp="1582144912086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1152" height="347" key="GridCell.Tab.1.center/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582132526251" />
+    <state width="991" height="347" key="GridCell.Tab.1.center/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582144912086" />
+    <state width="991" height="347" key="GridCell.Tab.1.left" timestamp="1582144912086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1152" height="347" key="GridCell.Tab.1.left/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582132526250" />
+    <state width="991" height="347" key="GridCell.Tab.1.left/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582144912086" />
+    <state width="991" height="347" key="GridCell.Tab.1.right" timestamp="1582144912086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1152" height="347" key="GridCell.Tab.1.right/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582132526251" />
+    <state width="991" height="347" key="GridCell.Tab.1.right/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582144912086" />
+    <state x="-396" y="1386" key="com.intellij.ide.util.TipDialog" timestamp="1582133869828">
+      <screen x="-998" y="1080" width="1920" height="1040" />
+    </state>
+    <state x="-396" y="1386" key="com.intellij.ide.util.TipDialog/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582133869828" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582119949580" />
+    <state x="-14" y="1310" width="672" height="678" key="search.everywhere.popup" timestamp="1582127386034">
+      <screen x="-998" y="1080" width="1920" height="1040" />
+    </state>
+    <state x="-14" y="1310" width="672" height="678" key="search.everywhere.popup/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582127386034" />
+  </component>
+</project>
