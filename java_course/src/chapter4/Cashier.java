@@ -9,14 +9,14 @@ public class Cashier {
         int quanity = s.nextInt();
         double total = 0;
 
-        for(int i = 0; i < quanity; i ++) {
-            System.out.println("Enter cost of item:");
+        for(int i = 1; i <= quanity; i ++) {
+            System.out.println("Enter cost of item " + i + ":");
             total += s.nextDouble();
         }
 
         s.close();
 
-        System.out.print("The cost of all items is: $" + total);
+        System.out.print("The cost of all items is: " + String.format("$%.2f",total));
     }
 }
 
