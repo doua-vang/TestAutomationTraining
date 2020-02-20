@@ -6,10 +6,10 @@ public class Cashier {
     public static void main(String[] args) {
         System.out.println("Enter the number of items you would you like to scan:");
         Scanner s = new Scanner(System.in);
-        int quanity = s.nextInt();
+        int quantity = s.nextInt();
         double total = 0;
 
-        for(int i = 1; i <= quanity; i ++) {
+        for(int i = 1; i <= quantity; i ++) {
             System.out.println("Enter cost of item " + i + ":");
             total += s.nextDouble();
         }
