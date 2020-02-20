@@ -5,11 +5,12 @@ import java.util.Scanner;
 public class InstantCreditCheck {
     static int minCredit = 700;
     static int minSalary = 25000;
-    Scanner s = new Scanner(System.in);
+    static double salary = 0;
+    static int creditScore = 0;
+
+    static Scanner s = new Scanner(System.in);
 
     public static void creditCheck(int salary, int credit) {
-        double salary =+
-
         if (salary >= minSalary && credit >= minCredit) {
             System.out.println("Congrats! You've been instantly approved");
         }
@@ -17,13 +18,39 @@ public class InstantCreditCheck {
             System.out.println("Sorry, you've been declined");
         }
     }
-    public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
+
+    public static boolean isQualified() {
+        if (salary >= minSalary && creditScore >= minCredit) {
+            return true;
+        }
+        return false;
+    }
+
+    public static void printApproval(boolean isQualified) {
+        if (isQualified) {
+            System.out.println("Congrats! You've been instantly approved");
+        }
+        else {
+            System.out.println("Sorry, you've been declined");
+        }
+
+    }
+    public static double getSalary() {
         System.out.println("Please Enter your salary:");
         int salary = s.nextInt();
+        return salary;
+    }
+    public static int getCreditScore() {
         System.out.println("Please enter your credit score:");
         int creditScore = s.nextInt();
+        return creditScore;
+    }
+
+    public static void main(String[] args) {
+        salary = getSalary();
+        creditScore = getCreditScore();
         s.close();
-        creditCheck(salary,creditScore);
+        boolean isQualified = isQualified();
+        printApproval(isQualified);
     }
 }
