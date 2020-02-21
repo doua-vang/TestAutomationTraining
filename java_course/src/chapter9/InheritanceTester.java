@@ -2,9 +2,10 @@ package chapter9;
 
 public class InheritanceTester {
     public static void main(String[] args) {
-        Person person = new Person();
-        Employee employee = new Employee();
+        Rectangle rect = new Rectangle();
+        rect.print();
 
-        employee.
+        Square square = new Square();
+        square.print("square");
     }
 }
