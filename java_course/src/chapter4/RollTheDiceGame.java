@@ -5,7 +5,7 @@ import java.util.Random;
 public class RollTheDiceGame {
     public static void main(String[] args) {
         Random random = new Random();
-        int die;// = random.nextInt(6) + 1;
+        int die;
         int numOfSides = 6;
         int turns = 5;
         int maxSpace = 20;
@@ -16,6 +16,7 @@ public class RollTheDiceGame {
             currentCount += die;
             String message = "Roll #" + i + ": You've rolled a " + die + ".";
             String secondMessage = " You are now on space " + currentCount;
+
             if(currentCount == maxSpace) {
                 System.out.println(message + " Congrats, you win!");
             }

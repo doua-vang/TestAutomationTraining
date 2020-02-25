@@ -22,14 +22,6 @@ public class CoinTossGameInfiniteNumber {
         return guess;
 
     }
-    public static String getOpposite(String pick) {
-
-        if (pick.equalsIgnoreCase(Coin.HEADS)) {
-            return Coin.TAILS;
-        }
-        return Coin.HEADS;
-
-    }
     public static boolean didIWin(Player player, Coin coin) {
         return player.getGuess().equalsIgnoreCase(coin.getSide());
     }
@@ -97,8 +89,11 @@ public class CoinTossGameInfiniteNumber {
 
         for (Player player : players) {
             printPlayerChoice(player);
-            printMyResults(player);
 
+        }
+
+        for (Player player : players) {
+            printMyResults(player);
         }
 
     }
