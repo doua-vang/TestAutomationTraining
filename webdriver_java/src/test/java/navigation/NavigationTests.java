@@ -2,10 +2,12 @@ package navigation;
 
 import base.BaseTests;
 import org.testng.annotations.Test;
+import pages.DynamicLoadingExample2Page;
 import utils.WindowManager;
 
-public class NavigationTests extends BaseTests {
+import static org.testng.Assert.assertTrue;
 
+public class NavigationTests extends BaseTests {
     @Test
     public void testNavigator(){
         homePage.clickDynaicLoadingLink().clickExample1();
@@ -16,6 +18,14 @@ public class NavigationTests extends BaseTests {
 
 
     }
+
+    @Test
+    public void testSwitchTab(){
+        homePage.clickMultipleWindows().clickHere();
+        getWindowManager().switchToTab("New Window");
+    }
+
+
 
 
 }

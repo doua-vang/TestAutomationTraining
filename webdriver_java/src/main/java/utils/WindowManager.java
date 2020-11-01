@@ -27,5 +27,19 @@ public class WindowManager {
         navigate.to(url);
     }
 
+    public void switchToTab(String tabTitle){
+        var windows = driver.getWindowHandles();
+
+        for(String window : windows){
+            driver.switchTo().window(window);
+            if(tabTitle.equals(driver.getTitle())){
+                break;
+            }
+        }
+    }
+    public void switchToTab(){
+        var windows = driver.getWindowHandles();
+        windows.forEach(System.out::println);
+    }
 
 }

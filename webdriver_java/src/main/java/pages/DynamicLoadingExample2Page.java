@@ -26,11 +26,18 @@ public class DynamicLoadingExample2Page {
                 driver.findElement(loadingIndicator)));
         wait.until(ExpectedConditions.visibilityOf(
                 driver.findElement(loadedText)));
-
-
     }
 
     public String getLoadedText() {
         return driver.findElement(loadedText).getText();
+    }
+
+    public boolean startButtonPresent() {
+        try {
+            driver.findElement(startButton);
+            return true;
+        } catch (NoSuchElementException e) {
+            return false;
+        }
     }
 }
