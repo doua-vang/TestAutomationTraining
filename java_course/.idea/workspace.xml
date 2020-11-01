@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edd221f0-4559-4871-8b06-bb14b655eb90" name="Default Changelist" comment="updating files">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter12/CollectionsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter12/Results.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter12/TestResults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter13/DividingByZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter13/ExceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/CoinTossGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/CoinTossGameInfiniteNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/Player.java" afterDir="false" />
+    <list default="true" id="edd221f0-4559-4871-8b06-bb14b655eb90" name="Default Changelist" comment="updating code">
+      <change afterPath="$PROJECT_DIR$/src/chapter9/EmployeeTom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/PersonTom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varunChallenges/FibSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/MultipleWindowsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdriver_java/src/main/java/utils/EventReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdriver_java/src/test/java/windows/WindowsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.14.0.20191209-1925.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation/.metadata/version.ini" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter4/Cashier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter4/Cashier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter4/GrossPayInputValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter4/GrossPayInputValidation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter4/RollTheDiceGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter4/RollTheDiceGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter5/Greetings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter5/Greetings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter5/InstantCreditCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter5/InstantCreditCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter5/PhoneBillCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter5/PhoneBillCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/InheritanceTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9/InheritanceTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/DynamicLoadingExample2Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/DynamicLoadingExample2Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/DynamicLoadingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/DynamicLoadingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver_java/src/main/java/utils/WindowManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver_java/src/main/java/utils/WindowManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver_java/src/test/java/base/BaseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver_java/src/test/java/base/BaseTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver_java/src/test/java/navigation/NavigationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver_java/src/test/java/navigation/NavigationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +58,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -61,13 +66,13 @@
       <recent name="chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CoinTossGameInfiniteNumber">
-    <configuration name="Coin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter14.Coin" />
+  <component name="RunManager" selected="Application.InheritanceTester">
+    <configuration name="EmployeeTom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9.EmployeeTom" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter14.*" />
+          <option name="PATTERN" value="chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinTossGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter14.CoinTossGame" />
+    <configuration name="FibSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="varunChallenges.FibSequence" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter14.*" />
+          <option name="PATTERN" value="varunChallenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinTossGameInfiniteNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter14.CoinTossGameInfiniteNumber" />
+    <configuration name="GoatGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="games.GoatGame" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter14.*" />
+          <option name="PATTERN" value="games.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DividingByZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.DividingByZero" />
+    <configuration name="InheritanceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9.InheritanceTester" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter13.*" />
+          <option name="PATTERN" value="chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.ExceptionHandling" />
+    <configuration name="RollTheDiceGameVersion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.RollTheDiceGameVersion2" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter13.*" />
+          <option name="PATTERN" value="chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CoinTossGameInfiniteNumber" />
-        <item itemvalue="Application.CoinTossGame" />
-        <item itemvalue="Application.Coin" />
-        <item itemvalue="Application.DividingByZero" />
-        <item itemvalue="Application.ExceptionHandling" />
+        <item itemvalue="Application.InheritanceTester" />
+        <item itemvalue="Application.EmployeeTom" />
+        <item itemvalue="Application.GoatGame" />
+        <item itemvalue="Application.RollTheDiceGameVersion2" />
+        <item itemvalue="Application.FibSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +202,35 @@
       <option name="project" value="LOCAL" />
       <updated>1582310984594</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Chapters 12, 13, 14. Finished Java Programming">
+      <created>1582560029478</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582560029478</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Chapters 12, 13, 14. Finished Java Programming">
+      <created>1582560064749</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582560064749</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updating code">
+      <created>1582664236481</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582664236482</updated>
+    </task>
+    <task id="LOCAL-00011" summary="updating code">
+      <created>1583853231214</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1583853231214</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -205,89 +238,30 @@
     <MESSAGE value="adding chapter 6 code" />
     <MESSAGE value="updating spelling" />
     <MESSAGE value="updating files" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating files" />
+    <MESSAGE value="Chapters 12, 13, 14. Finished Java Programming" />
+    <MESSAGE value="updating code" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="252" y="1130" key="#com.intellij.ide.util.MemberChooser" timestamp="1582553183108">
-      <screen x="-998" y="1080" width="1920" height="1040" />
-    </state>
-    <state x="252" y="1130" key="#com.intellij.ide.util.MemberChooser/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582553183108" />
-    <state x="252" y="1130" key="#com.intellij.ide.util.MemberChooser/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582299229340" />
-    <state x="922" y="534" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582302572814">
+    <state x="1094" y="114" key="CommitChangelistDialog2" timestamp="1604271423931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="534" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582302572814" />
-    <state x="16" y="1194" key="CommitChangelistDialog2" timestamp="1582560063271">
-      <screen x="-998" y="1080" width="1920" height="1040" />
+    <state x="1094" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604271423931" />
+    <state width="1174" height="331" key="GridCell.Tab.0.bottom" timestamp="1598451234817">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="16" y="1194" key="CommitChangelistDialog2/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582560063271" />
-    <state x="-24" y="1228" key="CommitChangelistDialog2/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582230192447" />
-    <state x="974" y="148" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582233170288" />
-    <state x="-105" y="1180" width="934" height="840" maximized="true" key="DiffContextDialog" timestamp="1582560017886">
-      <screen x="-998" y="1080" width="1920" height="1040" />
+    <state width="1174" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598451234817" />
+    <state width="1174" height="331" key="GridCell.Tab.0.center" timestamp="1598451234816">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-105" y="1180" width="934" height="840" maximized="true" key="DiffContextDialog/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582560017886" />
-    <state width="1372" height="326" key="GridCell.Tab.0.bottom" timestamp="1582559973982">
-      <screen x="-998" y="1080" width="1920" height="1040" />
+    <state width="1174" height="331" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598451234816" />
+    <state width="1174" height="331" key="GridCell.Tab.0.left" timestamp="1598451234816">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1372" height="326" key="GridCell.Tab.0.bottom/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582559973982" />
-    <state width="1259" height="279" key="GridCell.Tab.0.bottom/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582307638881" />
-    <state width="1074" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582233295961" />
-    <state width="1372" height="326" key="GridCell.Tab.0.center" timestamp="1582559973981">
-      <screen x="-998" y="1080" width="1920" height="1040" />
+    <state width="1174" height="331" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598451234816" />
+    <state width="1174" height="331" key="GridCell.Tab.0.right" timestamp="1598451234816">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1372" height="326" key="GridCell.Tab.0.center/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582559973981" />
-    <state width="1259" height="279" key="GridCell.Tab.0.center/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582307638881" />
-    <state width="1074" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582233295960" />
-    <state width="1372" height="326" key="GridCell.Tab.0.left" timestamp="1582559973981">
-      <screen x="-998" y="1080" width="1920" height="1040" />
-    </state>
-    <state width="1372" height="326" key="GridCell.Tab.0.left/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582559973981" />
-    <state width="1259" height="279" key="GridCell.Tab.0.left/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582307638880" />
-    <state width="1074" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582233295960" />
-    <state width="1372" height="326" key="GridCell.Tab.0.right" timestamp="1582559973981">
-      <screen x="-998" y="1080" width="1920" height="1040" />
-    </state>
-    <state width="1372" height="326" key="GridCell.Tab.0.right/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582559973981" />
-    <state width="1259" height="279" key="GridCell.Tab.0.right/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582307638881" />
-    <state width="1074" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582233295960" />
-    <state width="1259" height="344" key="GridCell.Tab.1.bottom" timestamp="1582309289469">
-      <screen x="-998" y="1080" width="1920" height="1040" />
-    </state>
-    <state width="1259" height="344" key="GridCell.Tab.1.bottom/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582309289469" />
-    <state width="991" height="347" key="GridCell.Tab.1.bottom/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582144912087" />
-    <state width="1074" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582233295962" />
-    <state width="1259" height="344" key="GridCell.Tab.1.center" timestamp="1582309289469">
-      <screen x="-998" y="1080" width="1920" height="1040" />
-    </state>
-    <state width="1259" height="344" key="GridCell.Tab.1.center/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582309289469" />
-    <state width="991" height="347" key="GridCell.Tab.1.center/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582144912086" />
-    <state width="1074" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582233295961" />
-    <state width="1259" height="344" key="GridCell.Tab.1.left" timestamp="1582309289469">
-      <screen x="-998" y="1080" width="1920" height="1040" />
-    </state>
-    <state width="1259" height="344" key="GridCell.Tab.1.left/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582309289469" />
-    <state width="991" height="347" key="GridCell.Tab.1.left/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582144912086" />
-    <state width="1074" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582233295961" />
-    <state width="1259" height="344" key="GridCell.Tab.1.right" timestamp="1582309289469">
-      <screen x="-998" y="1080" width="1920" height="1040" />
-    </state>
-    <state width="1259" height="344" key="GridCell.Tab.1.right/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582309289469" />
-    <state width="991" height="347" key="GridCell.Tab.1.right/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582144912086" />
-    <state width="1074" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582233295962" />
-    <state x="-46" y="1333" key="Vcs.Push.Dialog.v2" timestamp="1582560066658">
-      <screen x="-998" y="1080" width="1920" height="1040" />
-    </state>
-    <state x="-46" y="1333" key="Vcs.Push.Dialog.v2/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582560066658" />
-    <state x="952" y="253" key="Vcs.Push.Dialog.v2/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582230195765" />
-    <state x="-396" y="1386" key="com.intellij.ide.util.TipDialog" timestamp="1582294808996">
-      <screen x="-998" y="1080" width="1920" height="1040" />
-    </state>
-    <state x="-396" y="1386" key="com.intellij.ide.util.TipDialog/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582294808996" />
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582119949580" />
-    <state x="-14" y="1310" width="672" height="678" key="search.everywhere.popup" timestamp="1582127386034">
-      <screen x="-998" y="1080" width="1920" height="1040" />
-    </state>
-    <state x="-14" y="1310" width="672" height="678" key="search.everywhere.popup/-998.1080.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-998.1080.1920.1040" timestamp="1582127386034" />
+    <state width="1174" height="331" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598451234816" />
   </component>
 </project>
