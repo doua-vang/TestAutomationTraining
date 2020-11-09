@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edd221f0-4559-4871-8b06-bb14b655eb90" name="Default Changelist" comment="updating code">
-      <change afterPath="$PROJECT_DIR$/src/chapter9/EmployeeTom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/PersonTom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varunChallenges/FibSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/MultipleWindowsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webdriver_java/src/main/java/utils/EventReporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webdriver_java/src/test/java/windows/WindowsTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../automation/.metadata/.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../automation/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../automation/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../automation/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../automation/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../automation/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.14.0.20191209-1925.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../automation/.metadata/version.ini" beforeDir="false" />
+    <list default="true" id="edd221f0-4559-4871-8b06-bb14b655eb90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/InheritanceTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9/InheritanceTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/DynamicLoadingExample2Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/DynamicLoadingExample2Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/DynamicLoadingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/DynamicLoadingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver_java/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webdriver_java/src/main/java/utils/WindowManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver_java/src/main/java/utils/WindowManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webdriver_java/src/test/java/base/BaseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver_java/src/test/java/base/BaseTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webdriver_java/src/test/java/navigation/NavigationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver_java/src/test/java/navigation/NavigationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver_java/target/classes/META-INF/testautomationu.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver_java/target/test-classes/META-INF/testautomationu.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webdriver_java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -230,7 +212,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583853231214</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updating code for java chapters">
+      <created>1604271493646</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604271493646</updated>
+    </task>
+    <task id="LOCAL-00013" summary="pushing automation code">
+      <created>1604271553878</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604271553878</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -240,13 +236,19 @@
     <MESSAGE value="updating files" />
     <MESSAGE value="Chapters 12, 13, 14. Finished Java Programming" />
     <MESSAGE value="updating code" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating code" />
+    <MESSAGE value="updating code for java chapters" />
+    <MESSAGE value="pushing automation code" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing automation code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1094" y="114" key="CommitChangelistDialog2" timestamp="1604271490316">
+    <state x="1094" y="114" key="CommitChangelistDialog2" timestamp="1604271551324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1094" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604271490316" />
+    <state x="1094" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604271551324" />
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1604271591318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604271591318" />
     <state width="1174" height="331" key="GridCell.Tab.0.bottom" timestamp="1598451234817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -263,9 +265,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1174" height="331" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598451234816" />
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604271499474">
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604271571836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604271499474" />
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604271571836" />
   </component>
 </project>
